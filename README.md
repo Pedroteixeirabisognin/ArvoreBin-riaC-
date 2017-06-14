@@ -1,1 +1,1 @@
-# Exercício de árvore binária em C++
+# Exercício de árvore em C++
